@@ -58,6 +58,6 @@ export class ProductDetailComponent implements OnChanges, OnInit {
   }
 
   urlFor(product: Product): string {
-    return `${this.baseUrl}/${product.imageUrl}`;
+    return `${product.imageUrl}`;
   }
 }

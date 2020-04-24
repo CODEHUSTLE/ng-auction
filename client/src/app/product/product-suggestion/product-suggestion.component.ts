@@ -36,6 +36,6 @@ export class ProductSuggestionComponent {
   }
 
   urlFor(product: Product): string {
-    return `${this.baseUrl}/${product.imageUrl}`;
+    return `${product.imageUrl}`;
   }
 }

@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "description" : "Isn’t it cool when things look old, but their not. Looks Old But Not makes awesome vintage goods that are super smart. This ol’ radio just got an upgrade. Connect to it with an app and jam out to some top forty.",
-    "imageUrl" : "data/img/radio.png",
-    "price" : 300,
-    "title" : "Vintage Bluetooth Radio",
+    "description" : "The small-bodied Rogue Starter Acoustic Guitar is an amazing deal for a starter guitar. Its smaller profile (7/8in scale) makes it very playable for kids or aspiring guitarists with smaller body frames and hands. It has a maple neck and rosewood fretboard and Martin strings which help.give you a nice tone.",
+    "imageUrl" : "https://media.guitarcenter.com/is/image/MMGS7/Starter-Acoustic-Guitar-Red-Burst/519266000224000-00-220x220.jpg",
+    "price" : 3040,
+    "title" : "Rogue Starter Acoustic Guitar  Red Burst",
     "categories": [
       "household"
     ]
   },
   {
     "id": 2,
-    "description" : "Be an optimist. Carry Sunglasses with you at all times. All Tints and Shades products come with polarized lenses and super duper UV protection so you can look at the sun for however long you want. Sunglasses make you look cool, wear them.",
+    "description" : "Sometimes innovation is in the details and this is certainly true with Martin’s re-imagined 2017 D-28. After nearly a century at the helm, and as the quintessential workhorse of music legends like Hank Williams, The Beatles, Johnny Cash, Neil Young, Bob Dylan, and so many more, Martin's legendary D-28 has been lovingly and artfully enhanced.",
     "featured" : true,
-    "imageUrl" : "data/img/sunnies.png",
-    "price" : 70,
-    "title" : "Sunglasses",
+    "imageUrl" : "https://media.guitarcenter.com/is/image/MMGS7/D-28-Standard-Dreadnought-Acoustic-Guitar-Natural/K40776000001000-00-220x220.jpg",
+    "price" : 705,
+    "title" : "Martin D-28 Standard Dreadnought Acoustic Guitar Natural",
     "categories": [
       "outdoor"
     ]
